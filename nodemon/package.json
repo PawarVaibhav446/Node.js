@@ -1,0 +1,15 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
+  },
+  "author": "Vaibhav",
+  "license": "ISC",
+  "description": ""
+}
